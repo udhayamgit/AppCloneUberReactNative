@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

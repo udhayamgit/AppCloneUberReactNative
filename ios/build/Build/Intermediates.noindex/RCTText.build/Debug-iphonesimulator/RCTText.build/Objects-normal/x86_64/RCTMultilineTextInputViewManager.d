@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
