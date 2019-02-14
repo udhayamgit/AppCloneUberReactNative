@@ -3,20 +3,32 @@ import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplet
 import { Platform } from 'react-native'
 
 export default class Search extends Component {
+
+    state = {
+        searchFocused: false
+    }
+
     render() {
+
+        const { onLocationSelected } = this.props
+        const { searchFocused } = this.state
+
         return (
             <GooglePlacesAutocomplete
                 placeholder="Para onde ?"
                 placeholderTextColor="#333"
-                onPress={(data, details) => { console.log(data, details) }}
+                onPress={onLocationSelected}
                 query={{
                     key: 'AIzaSyA-LzSxNdNMTKVSt-VOH_nrbAJdx0D3L8M',
                     language: 'pt'
                 }}
                 textInputProps={{
+                    onFocus: () => { this.setState(() => ({ searchFocused: true })) },
+                    onBlur: () => { this.setState(() => ({ searchFocused: false })) },
                     autoCapitalize: 'none',
                     autoCorrect: false
                 }}
+                listViewDisplayed={searchFocused}
                 fetchDetails
                 enablePoweredByContainer={false}
                 styles={{
@@ -47,7 +59,7 @@ export default class Search extends Component {
                         elevation: 5,
                         shadowColor: '#000',
                         shadowOpacity: 0.1,
-                        shadowOffset: {x: 0, y: 0},
+                        shadowOffset: { x: 0, y: 0 },
                         shadowRadius: 15,
                         borderWidth: 1,
                         borderColor: '#DDD',
@@ -61,7 +73,7 @@ export default class Search extends Component {
                         elevation: 5,
                         shadowColor: '#000',
                         shadowOpacity: 0.1,
-                        shadowOffset: {x: 0, y: 0},
+                        shadowOffset: { x: 0, y: 0 },
                         shadowRadius: 15,
                         marginTop: 10,
                     },
