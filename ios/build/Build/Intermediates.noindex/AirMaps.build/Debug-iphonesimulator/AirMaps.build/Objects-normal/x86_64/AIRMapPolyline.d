@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolyline.m \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolyline.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

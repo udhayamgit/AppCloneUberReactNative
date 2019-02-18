@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/mobile/Desktop/AppCloneUberReactNative/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
